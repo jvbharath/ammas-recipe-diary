@@ -3,7 +3,7 @@ window.RECIPES = [
     title: "Mango Jaggery Curry",
     category: "Vegetable Curries",
     image: "images/mango-jaggery-curry.jpeg",
-    imagePosition: "50% 18%",
+    imagePosition: "50% 16%",
     blurb: "Raw mango cooked with mustard, curry leaves, chilli, and jaggery.",
     ingredients: ["Raw mango", "Mustard seeds", "Curry leaves", "Turmeric", "Chilli powder", "Salt", "Jaggery", "Oil"],
     method: [
@@ -18,8 +18,8 @@ window.RECIPES = [
   {
     title: "Capsicum with Onion-Tomato Gravy",
     category: "Vegetable Curries",
-    image: "images/capsicum-onion-tomato-gravy.jpeg",
-    imagePosition: "50% 18%",
+    image: "images/capsicum-with-onion-tomato-gravy.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Capsicum cooked with a simple onion, tomato, and jeera masala.",
     ingredients: ["Capsicum", "Onion", "Tomato", "Green chillies", "Jeera", "Mustard", "Urad dal", "Turmeric", "Salt", "Coriander leaves"],
     method: [
@@ -35,7 +35,7 @@ window.RECIPES = [
     title: "Bittergourd Curry",
     category: "Vegetable Curries",
     image: "images/bittergourd-curry.jpeg",
-    imagePosition: "50% 18%",
+    imagePosition: "50% 16%",
     blurb: "Bittergourd balanced with tamarind and jaggery for a sweet-sour-spicy finish.",
     ingredients: ["Bittergourd", "Onion", "Curry leaves", "Mustard seeds", "Oil", "Tamarind juice", "Salt", "Chilli powder", "Turmeric", "Jaggery"],
     method: [
@@ -50,6 +50,8 @@ window.RECIPES = [
   {
     title: "Cabbage Curry",
     category: "Vegetable Curries",
+    image: "images/cabbage-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "A simple cabbage stir-fry with onion, garlic, green chilli, and coconut.",
     ingredients: ["Cabbage", "Onion", "Garlic", "Green chillies", "Coconut", "Mustard", "Urad dal", "Bengal gram dal", "Curry leaves"],
     method: [
@@ -62,6 +64,8 @@ window.RECIPES = [
   {
     title: "Cauliflower Curry",
     category: "Vegetable Curries",
+    image: "images/cauliflower-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Cauliflower cooked with onion, garlic, saunf, red chilli, and pepper paste.",
     ingredients: ["Cauliflower", "Onion", "Garlic", "Saunf", "Red chillies", "Pepper", "Coriander leaves", "Oil", "Salt"],
     method: [
@@ -77,6 +81,8 @@ window.RECIPES = [
   {
     title: "Potato Curry with Methi Leaves",
     category: "Vegetable Curries",
+    image: "images/potato-curry-with-methi-leaves.jpeg",
+    imagePosition: "50% 16%",
     blurb: "A simple potato curry with methi leaves, tempered dals, and garlic.",
     ingredients: ["Potatoes", "Onion", "Garlic", "Methi leaves", "Mustard", "Urad dal", "Bengal gram dal", "Curry leaves", "Chilli powder", "Turmeric", "Salt"],
     method: [
@@ -92,6 +98,8 @@ window.RECIPES = [
   {
     title: "Brinjal Curry",
     category: "Vegetable Curries",
+    image: "images/brinjal-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Brinjal cooked with onion, garlic, tomato, and a simple tempering.",
     ingredients: ["Brinjal", "Onion", "Garlic", "Tomato", "Mustard", "Urad dal", "Bengal gram dal", "Curry leaves", "Turmeric", "Chilli powder", "Salt"],
     method: [
@@ -119,6 +127,8 @@ window.RECIPES = [
   {
     title: "Capsicum & Potato Curry",
     category: "Vegetable Curries",
+    image: "images/capsicum-and-potato-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Capsicum and potato cooked on slow flame and finished with garam masala and lemon.",
     ingredients: ["Capsicum", "Potato", "Turmeric", "Salt", "Coriander leaves", "Garam masala", "Lemon juice"],
     method: [
@@ -133,6 +143,8 @@ window.RECIPES = [
   {
     title: "Broccoli & Potato Gravy",
     category: "Vegetable Curries",
+    image: "images/broccoli-and-potato-gravy.jpeg",
+    imagePosition: "50% 16%",
     blurb: "A later addition to the diary, with broccoli, potatoes, and warm masalas.",
     ingredients: ["Potato", "Broccoli", "Onion", "Tomato", "Ginger-garlic paste", "Cumin", "Turmeric", "Chilli powder", "Dhaniya powder", "Garam masala", "Salt", "Lemon juice", "Cilantro"],
     method: [
@@ -160,6 +172,8 @@ window.RECIPES = [
   {
     title: "Vegetable Jalfrezi",
     category: "Vegetable Curries",
+    image: "images/vegetable-jalfrezi.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Mixed vegetables cooked with onion-cashew-almond paste and mint.",
     ingredients: ["Cauliflower", "Carrot", "Capsicum", "Peas", "Potato", "Cashews", "Almonds", "Onion", "Pepper powder", "Chilli powder", "Tomato", "Salt", "Mint"],
     method: [
@@ -174,6 +188,8 @@ window.RECIPES = [
   {
     title: "Gutti Vankaya Kura",
     category: "Vegetable Curries",
+    image: "images/gutti-vankaya-kura.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Stuffed-style brinjal curry with coconut, poppy seeds, and coriander seed paste.",
     ingredients: ["Brinjal", "Onion", "Green chilli", "Ginger-garlic paste", "Poppy seeds", "Dhaniya", "Coconut", "Turmeric", "Chilli powder", "Salt", "Coriander leaves"],
     method: [
@@ -189,6 +205,8 @@ window.RECIPES = [
   {
     title: "Shema Ghatta Curry",
     category: "Vegetable Curries",
+    image: "images/shema-ghatta-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Cooked vegetable fry with onion, garlic, chilli powder, and simple tempering.",
     ingredients: ["Shema ghatta", "Onion", "Garlic", "Mustard", "Curry leaves", "Turmeric", "Chilli powder", "Salt", "Oil"],
     method: [
@@ -203,7 +221,7 @@ window.RECIPES = [
     title: "Palak Paneer",
     category: "Paneer & North Indian Favorites",
     image: "images/palak-paneer.jpeg",
-    imagePosition: "50% 14%",
+    imagePosition: "50% 16%",
     blurb: "Paneer cubes in a homestyle spinach gravy from Amma’s recipe diary.",
     ingredients: ["Palak", "Paneer", "Onion", "Tomato", "Ginger-garlic paste", "Garam masala", "Chilli powder", "Salt", "Oil or ghee"],
     method: [
@@ -221,7 +239,7 @@ window.RECIPES = [
     title: "Matar Paneer",
     category: "Paneer & North Indian Favorites",
     image: "images/matar-paneer.jpeg",
-    imagePosition: "50% 14%",
+    imagePosition: "50% 16%",
     blurb: "Peas and paneer in a simple onion-tomato gravy.",
     ingredients: ["Peas", "Paneer", "Onion", "Tomato", "Ginger-garlic paste", "Garam masala", "Chilli powder", "Salt"],
     method: [
@@ -236,6 +254,8 @@ window.RECIPES = [
   {
     title: "Baingan Bharta",
     category: "Paneer & North Indian Favorites",
+    image: "images/baingan-bharta.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Roasted eggplant mashed and cooked with onion, tomato, and gentle spice.",
     ingredients: ["Eggplant", "Onion", "Tomato", "Cumin seeds", "Green chilli", "Turmeric", "Chilli powder", "Garam masala", "Salt", "Coriander leaves", "Lemon juice", "Ginger-garlic paste"],
     method: [
@@ -251,6 +271,8 @@ window.RECIPES = [
   {
     title: "Veg Kolhapuri",
     category: "Paneer & North Indian Favorites",
+    image: "images/veg-kolhapuri.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Mixed vegetables with sesame, coconut, onion, and warming spices.",
     ingredients: ["Beans", "Carrot", "Capsicum", "Sesame seeds", "Dry coconut", "Onion", "Tomato", "Turmeric", "Chilli powder", "Ginger-garlic paste", "Garam masala", "Coriander leaves"],
     method: [
@@ -266,6 +288,8 @@ window.RECIPES = [
   {
     title: "Egg Curry",
     category: "Paneer & North Indian Favorites",
+    image: "images/egg-curry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Boiled eggs in a coconut-onion-tomato gravy with whole spices.",
     ingredients: ["Eggs", "Onion", "Tomato", "Ginger", "Garlic", "Coconut", "Clove", "Cinnamon", "Bay leaf", "Coriander powder", "Turmeric", "Chilli powder", "Salt", "Green chilli"],
     method: [
@@ -281,6 +305,8 @@ window.RECIPES = [
   {
     title: "Channa Masala",
     category: "Paneer & North Indian Favorites",
+    image: "images/channa-masala.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Chickpeas cooked with onion, tomato, ginger, and masala powders.",
     ingredients: ["Chickpeas", "Onion", "Tomato", "Coriander powder", "Chilli powder", "Channa masala", "Ginger", "Salt"],
     method: [
@@ -294,6 +320,8 @@ window.RECIPES = [
   {
     title: "Kabuli Channa Fry",
     category: "Paneer & North Indian Favorites",
+    image: "images/kabuli-channa-fry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Hearty chickpeas cooked with onion, tomato, and finishing garam masala.",
     ingredients: ["Kabuli channa", "Onion", "Garlic", "Ginger", "Tomato", "Turmeric", "Chilli powder", "Salt", "Garam masala", "Coriander leaves"],
     method: [
@@ -325,6 +353,8 @@ window.RECIPES = [
   {
     title: "Channa Dal Chundal",
     category: "Dal, Kootu & Chundal",
+    image: "images/channa-dal-chundal.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Cooked channa dal finished with hing, curry leaves, and coconut.",
     ingredients: ["Channa dal", "Mustard", "Urad dal", "Hing", "Curry leaves", "Green chillies", "Coconut scrapings", "Ghee or oil", "Salt"],
     method: [
@@ -338,6 +368,8 @@ window.RECIPES = [
   {
     title: "Green Peas Dal",
     category: "Dal, Kootu & Chundal",
+    image: "images/green-peas-dal.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Green peas dal cooked and seasoned like chundal.",
     ingredients: ["Green peas dal", "Mustard", "Urad dal", "Hing", "Curry leaves", "Green chillies", "Coconut", "Salt"],
     method: [
@@ -350,6 +382,8 @@ window.RECIPES = [
   {
     title: "Mixed Chundal",
     category: "Dal, Kootu & Chundal",
+    image: "images/mixed-chundal.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Festival-style chundal made with naati channa, groundnuts, and cowpeas.",
     ingredients: ["Naati channa", "Groundnuts", "Cowpeas", "Mustard", "Urad dal", "Hing", "Curry leaves", "Green chillies", "Coconut scrapings", "Oil or ghee", "Salt"],
     method: [
@@ -363,6 +397,8 @@ window.RECIPES = [
   {
     title: "Bengal Gram Dal Fry",
     category: "Dal, Kootu & Chundal",
+    image: "images/bengal-gram-dal-fry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Pressure-cooked bengal gram dal finished with onion, tomato, and coriander.",
     ingredients: ["Bengal gram dal", "Onion", "Tomato", "Ginger-garlic paste", "Garam masala", "Coriander leaves", "Chilli powder", "Salt"],
     method: [
@@ -376,6 +412,8 @@ window.RECIPES = [
   {
     title: "Beetroot Kootu",
     category: "Dal, Kootu & Chundal",
+    image: "images/beetroot-kootu.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Beetroot and green gram dal cooked together and finished with coconut and tempering.",
     ingredients: ["Beetroot", "Green gram dal", "Onion", "Garlic", "Green chillies", "Coconut gratings", "Salt", "Mustard", "Jeera", "Curry leaves"],
     method: [
@@ -389,6 +427,8 @@ window.RECIPES = [
   {
     title: "Red Leaves / Methi Leaves Sambar",
     category: "Dal, Kootu & Chundal",
+    image: "images/red-leaves-methi-leaves-sambar.jpeg",
+    imagePosition: "50% 16%",
     blurb: "A quick greens sambar with toor dal, tamarind, tomato, and garlic tempering.",
     ingredients: ["Toor dal", "Tomatoes", "Onion", "Tamarind", "Red leaves or methi leaves", "Turmeric", "Chilli powder", "Salt", "Coriander leaves", "Mustard", "Urad dal", "Bengal gram dal", "Jeera", "Crushed garlic"],
     method: [
@@ -418,6 +458,8 @@ window.RECIPES = [
   {
     title: "Raw Banana Fry",
     category: "Fry Recipes & Quick Sides",
+    image: "images/raw-banana-fry.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Cooked banana slices finished on the tawa until crisp.",
     ingredients: ["Raw bananas", "Turmeric powder", "Chilli powder", "Salt", "Oil"],
     method: [
@@ -429,6 +471,8 @@ window.RECIPES = [
   {
     title: "Banana Curry with Coconut",
     category: "Fry Recipes & Quick Sides",
+    image: "images/banana-curry-with-coconut.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Raw banana sautéed with red chillies, onion, garlic, and coconut scrapings.",
     ingredients: ["Raw bananas", "Mustard", "Urad dal", "Curry leaves", "Garlic", "Red chillies", "Onion", "Coconut scrapings", "Turmeric", "Salt", "Oil"],
     method: [
@@ -458,6 +502,8 @@ window.RECIPES = [
   {
     title: "Parotta",
     category: "Breads & Tiffin Pairings",
+    image: "images/parotta.jpeg",
+    imagePosition: "50% 16%",
     blurb: "Layered maida parotta, rested well and cooked on the tawa.",
     ingredients: ["Maida", "Salt", "Oil", "Water"],
     method: [

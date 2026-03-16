@@ -1,0 +1,73 @@
+Recipe-specific cropped images used by the website:
+
+- Mango Jaggery Curry: mango-jaggery-curry.jpeg
+- Capsicum with Onion-Tomato Gravy: capsicum-with-onion-tomato-gravy.jpeg
+- Bittergourd Curry: bittergourd-curry.jpeg
+- Cabbage Curry: cabbage-curry.jpeg
+- Cauliflower Curry: cauliflower-curry.jpeg
+- Potato Curry with Methi Leaves: potato-curry-with-methi-leaves.jpeg
+- Brinjal Curry: brinjal-curry.jpeg
+- Capsicum & Potato Curry: capsicum-and-potato-curry.jpeg
+- Broccoli & Potato Gravy: broccoli-and-potato-gravy.jpeg
+- Vegetable Jalfrezi: vegetable-jalfrezi.jpeg
+- Gutti Vankaya Kura: gutti-vankaya-kura.jpeg
+- Shema Ghatta Curry: shema-ghatta-curry.jpeg
+- Palak Paneer: palak-paneer.jpeg
+- Matar Paneer: matar-paneer.jpeg
+- Baingan Bharta: baingan-bharta.jpeg
+- Veg Kolhapuri: veg-kolhapuri.jpeg
+- Egg Curry: egg-curry.jpeg
+- Channa Masala: channa-masala.jpeg
+- Kabuli Channa Fry: kabuli-channa-fry.jpeg
+- Dal Chundal – Green Gram: dal-chundal-green-gram.jpeg
+- Channa Dal Chundal: channa-dal-chundal.jpeg
+- Green Peas Dal: green-peas-dal.jpeg
+- Mixed Chundal: mixed-chundal.jpeg
+- Bengal Gram Dal Fry: bengal-gram-dal-fry.jpeg
+- Beetroot Kootu: beetroot-kootu.jpeg
+- Red Leaves / Methi Leaves Sambar: red-leaves-methi-leaves-sambar.jpeg
+- Red Bell Pepper Fry: red-bell-pepper-fry.jpeg
+- Raw Banana Fry: raw-banana-fry.jpeg
+- Banana Curry with Coconut: banana-curry-with-coconut.jpeg
+- Parotta: parotta.jpeg
+- Vegetable Salna: vegetable-salna.jpeg
+
+Full renamed notebook page images:
+
+- page-baingan-bharta.jpeg
+- page-banana-curry-with-coconut-continuation.jpeg
+- page-beetroot-kootu-and-spinach-kootu.jpeg
+- page-beetroot-varieties-and-beetroot-curry-duplicate.jpeg
+- page-beetroot-varieties-and-beetroot-curry.jpeg
+- page-bengal-gram-dal-fry-and-green-gram-dal-fry.jpeg
+- page-bittergourd-curry.jpeg
+- page-brinjal-curry-and-shema-ghatta-curry.jpeg
+- page-broccoli-and-potato-gravy-duplicate.jpeg
+- page-broccoli-and-potato-gravy.jpeg
+- page-cabbage-curry.jpeg
+- page-capsicum-and-potato-curry-and-stuffed-brinjal-curry.jpeg
+- page-capsicum-gravy-and-cauliflower-gravy.jpeg
+- page-capsicum-with-onion-tomato-gravy.jpeg
+- page-cauliflower-with-peas-curry-and-peas-potato-curry-duplicate.jpeg
+- page-cauliflower-with-peas-curry-and-peas-potato-curry.jpeg
+- page-channa-masala.jpeg
+- page-dal-chundal-green-gram-and-channa-dal.jpeg
+- page-egg-curry.jpeg
+- page-green-peas-dal-mixed-chundal-and-raw-banana-curry-fry.jpeg
+- page-green-peas-fry-rajma-and-karamani-cowpea.jpeg
+- page-gutti-vankaya-kura.jpeg
+- page-kabuli-channa-fry-and-potato-curry.jpeg
+- page-mango-jaggery-curry-duplicate.jpeg
+- page-mango-jaggery-curry.jpeg
+- page-matar-paneer.jpeg
+- page-other-vegetable-variations.jpeg
+- page-palak-paneer.jpeg
+- page-potato-curry-with-methi-leaves.jpeg
+- page-raw-banana-curry-and-banana-curry-with-coconut-continuation.jpeg
+- page-raw-banana-curry-and-tomato-onion-curry.jpeg
+- page-red-bell-pepper-fry-duplicate.jpeg
+- page-red-bell-pepper-fry.jpeg
+- page-red-leaves-saaru-or-methi-leaves.jpeg
+- page-veg-kolhapuri.jpeg
+- page-vegetable-jalfrezi.jpeg
+- page-vegetable-salna-and-parotta.jpeg
