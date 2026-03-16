@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amma's Recipe Diary</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <div class="eyebrow">Family Cookbook</div>
+        <h1>Amma's Recipe Diary</h1>
+        <p class="subtitle">Handwritten Recipes Passed From Mother to Daughter</p>
+      </div>
+      <nav>
+        <a href="#story">Our Story</a>
+        <a href="#recipes">Recipes</a>
+        <a href="#publish">Publish</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <div class="hero-copy">
+        <div class="eyebrow">A digital home for Amma's handwritten recipes</div>
+        <h2>From a mother's notebook to a family cookbook website</h2>
+        <p>
+          Before her daughter left home after marriage to begin a new life in the U.S., Amma wrote down the flavors of home — page by page — so comfort, memory, and everyday cooking could travel with her.
+        </p>
+      </div>
+      <div class="hero-card">
+        <div class="eyebrow">From Amma's notebook</div>
+        <p class="quote">“When home becomes far away, these recipes become memory, comfort, and love served warm.”</p>
+      </div>
+    </section>
+
+    <section id="story" class="story-section">
+      <div class="container story-grid">
+        <div class="story-card light">
+          <h3>A notebook packed with love, spice, and reassurance</h3>
+          <p>
+            Some recipes came from Amma's South Indian kitchen, others were North Indian favorites and dishes the family loved over time. They were not restaurant recipes. They were the real meals of home — curries, dals, fries, kootu, gravies, and simple side dishes cooked in a kadai and remembered by feel.
+          </p>
+        </div>
+        <div class="story-card dark">
+          <h3>Preserved for the next generation</h3>
+          <p>
+            This website keeps those handwritten pages alive in a new form: easier to browse, easier to cook from, and still tied to the warmth of the original diary.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="recipes" class="container recipes-section">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">Recipe Collection</div>
+          <h2>Browse the first recipe batch</h2>
+        </div>
+        <input id="searchInput" class="search-input" type="search" placeholder="Search by recipe, ingredient, or category..." />
+      </div>
+      <div id="recipeGrid" class="recipe-grid"></div>
+    </section>
+
+    <section id="publish" class="publish-section">
+      <div class="container publish-card">
+        <div class="eyebrow">Ready for publishing</div>
+        <h2>Website package prepared for GitHub Pages</h2>
+        <p>
+          This package includes HTML, CSS, JavaScript, and handwritten recipe images in a normal website folder structure so everything loads correctly outside the preview.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <div id="recipeModal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-close="true"></div>
+    <div class="modal-panel">
+      <button class="modal-close" data-close="true">Close</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <script src="recipes.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
