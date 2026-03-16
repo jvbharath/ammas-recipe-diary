@@ -4,9 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Amma's Recipe Diary</title>
+  <meta name="description" content="Handwritten recipes passed from mother to daughter, preserved as a family cookbook website." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -19,61 +20,83 @@
       </div>
       <nav>
         <a href="#story">Our Story</a>
+        <a href="#categories">Categories</a>
         <a href="#recipes">Recipes</a>
-        <a href="#publish">Publish</a>
+        <a href="#notebook">Notebook</a>
       </nav>
     </div>
   </header>
 
   <main>
     <section class="hero container">
-      <div class="hero-copy">
-        <div class="eyebrow">A digital home for Amma's handwritten recipes</div>
-        <h2>From a mother's notebook to a family cookbook website</h2>
+      <div class="hero-copy card">
+        <div class="eyebrow">A family archive of home cooking</div>
+        <h2>From a mother’s recipe diary to a family cookbook website</h2>
         <p>
           Before her daughter left home after marriage to begin a new life in the U.S., Amma wrote down the flavors of home — page by page — so comfort, memory, and everyday cooking could travel with her.
         </p>
       </div>
-      <div class="hero-card">
-        <div class="eyebrow">From Amma's notebook</div>
+      <div class="hero-card card">
+        <div class="eyebrow">From Amma’s diary</div>
         <p class="quote">“When home becomes far away, these recipes become memory, comfort, and love served warm.”</p>
       </div>
     </section>
 
-    <section id="story" class="story-section">
-      <div class="container story-grid">
-        <div class="story-card light">
-          <h3>A notebook packed with love, spice, and reassurance</h3>
+    <section id="story" class="story-section container">
+      <div class="story-grid">
+        <article class="story-card card">
+          <h3>A recipe diary packed with love, spice, and reassurance</h3>
           <p>
-            Some recipes came from Amma's South Indian kitchen, others were North Indian favorites and dishes the family loved over time. They were not restaurant recipes. They were the real meals of home — curries, dals, fries, kootu, gravies, and simple side dishes cooked in a kadai and remembered by feel.
+            Some recipes came from Amma’s South Indian kitchen, others were North Indian favorites and dishes the family loved over time. They were the real meals of home — curries, dals, fries, kootu, gravies, breads, and simple side dishes cooked in a kadai and remembered by feel.
           </p>
-        </div>
-        <div class="story-card dark">
+        </article>
+        <article class="story-card story-card-dark card">
           <h3>Preserved for the next generation</h3>
           <p>
             This website keeps those handwritten pages alive in a new form: easier to browse, easier to cook from, and still tied to the warmth of the original diary.
           </p>
+        </article>
+      </div>
+    </section>
+
+    <section id="categories" class="container categories-section">
+      <div class="section-head compact">
+        <div>
+          <div class="eyebrow">Recipe Categories</div>
+          <h2>Browse by section</h2>
         </div>
       </div>
+      <div id="categoryChips" class="category-chips"></div>
     </section>
 
     <section id="recipes" class="container recipes-section">
       <div class="section-head">
         <div>
           <div class="eyebrow">Recipe Collection</div>
-          <h2>Browse the first recipe batch</h2>
+          <h2>Browse the full uploaded recipe batch</h2>
         </div>
         <input id="searchInput" class="search-input" type="search" placeholder="Search by recipe, ingredient, or category..." />
       </div>
+      <div id="recipeCount" class="recipe-count"></div>
       <div id="recipeGrid" class="recipe-grid"></div>
     </section>
 
-    <section id="publish" class="publish-section">
-      <div class="container publish-card">
-        <div class="eyebrow">Ready for publishing</div>
-        <h2>Website package prepared for GitHub Pages</h2>
+    <section id="notebook" class="container notebook-section">
+      <div class="section-head compact">
+        <div>
+          <div class="eyebrow">From the diary</div>
+          <h2>Handwritten recipe pages</h2>
+        </div>
+      </div>
+      <div id="notebookGrid" class="notebook-grid"></div>
+    </section>
+
+    <section class="container final-section">
+      <div class="final-card">
+        <div class="eyebrow">Final GitHub publish version</div>
+        <h2>Ready for a cleaner live cookbook experience</h2>
         <p>
-          This package includes HTML, CSS, JavaScript, and handwritten recipe images in a normal website folder structure so everything loads correctly outside the preview.
+          This final package includes more uploaded recipes, category filters, notebook gallery cards, warmer typography, and a cleaner recipe layout for GitHub Pages.
         </p>
       </div>
     </section>

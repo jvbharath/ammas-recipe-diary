@@ -1,23 +1,23 @@
 # Amma's Recipe Diary
 
-This is a static website package ready for simple hosting.
+Final GitHub Pages website package for the family cookbook project.
 
 ## Files
-- `index.html` — main page
-- `styles.css` — site styles
-- `recipes.js` — recipe data
-- `script.js` — search and modal behavior
-- `images/` — handwritten recipe page images
+- `index.html`
+- `styles.css`
+- `recipes.js`
+- `script.js`
+- `images/`
 
 ## Publish on GitHub Pages
-1. Create a new GitHub repository.
-2. Upload all files and folders from this package.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/root` folder.
-6. Save.
-7. Wait a minute or two for the site to go live.
+1. Upload all files and the `images` folder to the root of your GitHub repository.
+2. Go to **Settings > Pages**.
+3. Set **Source** to **Deploy from a branch**.
+4. Set **Branch** to **main** and **Folder** to **/(root)**.
+5. Save.
+
+GitHub will give you a live URL in under a minute.
 
 ## Notes
-- Add more recipe objects to `recipes.js` to expand the site.
-- Put new handwritten page images into the `images/` folder and reference them from `recipes.js`.
+- This final version adds more uploaded recipes, category filtering, and a notebook gallery.
+- Some recipes do not yet have matching handwritten images in the package; those can be added later by dropping more images into `images/` and updating `recipes.js`.
